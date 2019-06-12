@@ -4,7 +4,7 @@ This public repository contains machine learning and data science related projec
 
 You can find below a description of each project.
 
-# <h3><a href="https://github.com/bstollnitz/portfolio/tree/master/RedDiffusion">Predicting time evolution of a pigment in water</a></h3>
+# <h3><a href="https://github.com/bstollnitz/portfolio/tree/master/PigmentInWater">Predicting time evolution of a pigment in water</a></h3>
 
 The goal for this project is to explore techniques for predicting the behavior of food coloring in water. I started by recording 
 several videos of the diffusion of pigment of colored candy immersed in water, to be used as data source. These videos can be found 
