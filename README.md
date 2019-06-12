@@ -19,7 +19,7 @@ Side-by-side actual and predicted videos showing the results obtained can be fou
 
 I then used a model discovery technique to find a partial differential equation (PDE) that describes the evolution of this physical
 phenomenon. The left-hand side of the PDE considered is u<sub>t</sub>, and for the right-hand side, I 
-considered a library of possible terms, such as u<sub>x</sub> and u<sub>yy</sub>. I then used lasso 
+considered a library of possible terms, such as u<sub>x</sub>, u<sub>yy</sub> and x * u<sub>x</sub>. I then used lasso 
 linear regression to find the appropriate coefficients for the terms, and with that, obtain an equation that models the spreading of the
 food coloring. The main challenge of this task was the calculation of the derivative terms. I tried several techniques based on 
 finite-differences, but those lead to noisy data and poor results. I then decided to find derivatives by calculating a polynomial 
