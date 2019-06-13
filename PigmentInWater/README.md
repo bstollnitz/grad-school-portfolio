@@ -8,6 +8,9 @@
 
 1. Download all the [data files and videos](https://1drv.ms/f/s!AiCY1Uw6PbEfhaEncETEzJ0kakis6g) and put them in the `Data` subdirectory.
 
+1. Install [Chromedriver](http://chromedriver.chromium.org/getting-started) by 
+following the setup steps, including adding the executable to your path.
+
 1. Create a Python virtual environment, activate it, and install the packages we need:
 
     (MacOS)
