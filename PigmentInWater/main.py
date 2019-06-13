@@ -7,7 +7,20 @@ from cached_dataset import CachedDataset
 from ffn_analyzer import FFNAnalyzer
 from model_explorer import ModelExplorer
 
+
 DERIVATIVE_METHOD = "polynomial" # h2, h4, robust, savitzky, polynomial
+
+
+def _generate_cached_data() -> None:
+    """Reads video files and generates preprocessed data files."""
+    # Preprocess data for the feed-forward neural network.
+    ffn_cacher = DatasetCacher("ffn", False, None)
+    ffn_cacher.compute_and_save()
+
+    # Preprocess data for model discovery.
+    md_cacher = DatasetCacher("md", True, DERIVATIVE_METHOD)
+    md_cacher.compute_and_save()
+
 
 def main() -> None:
     """Main program."""
@@ -19,25 +32,22 @@ def main() -> None:
     except OSError:
         pass
 
-    what = "md"
-    if what is "cache_md":
-        md_cacher = DatasetCacher("md", True, DERIVATIVE_METHOD)
-        md_cacher.compute_and_save()
-    elif what is "cache_ffn":
-        ffn_cacher = DatasetCacher("ffn", False, None)
-        ffn_cacher.compute_and_save()
-    elif what is "md":
-        train_dataset = CachedDataset("md", "train")
-        test_dataset = CachedDataset("md", "test")
-        md = ModelExplorer(train_dataset, test_dataset)
-        md.explore()
-    elif what is "ffn":
-        train_dataset = CachedDataset("ffn", "train")
-        test_dataset = CachedDataset("ffn", "test")
-        ffn = FFNAnalyzer(train_dataset, test_dataset)
-        ffn.train_network()
-        ffn.predict_train()
-        ffn.predict_test()
+    print("Feed-forward network")
+    print("====================")
+    ffn_train_dataset = CachedDataset("ffn", "train")
+    ffn_test_dataset = CachedDataset("ffn", "test")
+    ffn = FFNAnalyzer(ffn_train_dataset, ffn_test_dataset)
+    ffn.train_network()
+    ffn.predict_train()
+    ffn.predict_test()
+
+    print("Model discovery")
+    print("===============")
+    md_train_dataset = CachedDataset("md", "train")
+    md_test_dataset = CachedDataset("md", "test")
+    md = ModelExplorer(md_train_dataset, md_test_dataset)
+    md.explore()
+
 
 if __name__ == '__main__':
     main()

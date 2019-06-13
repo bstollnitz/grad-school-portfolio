@@ -1,4 +1,6 @@
 .ropeproject/
 __pycache__/
-Data/
+Data/*
+!Data/README.md
 Images/
+venv/
