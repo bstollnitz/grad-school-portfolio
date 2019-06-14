@@ -11,6 +11,8 @@
 1. Install [Chromedriver](http://chromedriver.chromium.org/getting-started) by 
 following the setup steps, including adding the executable to your path.
 
+1.	Install [orca](https://github.com/plotly/orca) by following one of the three installation methods on their web page.
+
 1. Create a Python virtual environment, activate it, and install the packages we need:
 
     (MacOS)
