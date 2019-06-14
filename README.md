@@ -4,6 +4,8 @@ This repository contains machine learning and data science related projects comp
 
 ### <a href="https://github.com/bstollnitz/portfolio/tree/master/PigmentInWater">Predicting time evolution of a pigment in water</a>
 
+![](Images/PigmentInWater.png)
+
 The goal of this project is to explore techniques for predicting the behavior of food coloring in water. I started by recording several videos of the diffusion of pigment of colored candy immersed in water, to be used as data source. These videos can be found <a href="https://1drv.ms/u/s!AiCY1Uw6PbEfhaEncETEzJ0kakis6g?e=p3rMWV">here</a>. 
 
 I used PCA to reduce the dimensionality of the data, and then trained a feed-forward neural network based on several videos from the dataset. Once the network was trained, I used it to predict the behavior in an entire video starting from just the first frame. Given the first frame, the neural network predicts the second frame, which I feed back into the network to predict the third frame, and so on. You can see side-by-side comparisons of the original and predicted videos <a href="https://1drv.ms/u/s!AiCY1Uw6PbEfhaEl_af5l_21j08xQA?e=JgxWFc">here</a>.
