@@ -2,9 +2,9 @@
 
 This repository contains machine learning and data science related projects completed by Bea Stollnitz. All code is in Python.
 
-### <a href="https://github.com/bstollnitz/portfolio/tree/master/PigmentInWater">Predicting time evolution of a pigment in water</a>
+### <a href="https://github.com/bstollnitz/portfolio/tree/master/pigment-in-water">Predicting time evolution of a pigment in water</a>
 
-![](Images/PigmentInWater.png)
+![](images/pigment-in-water.png)
 
 The goal of this project is to explore techniques for predicting the behavior of food coloring in water. I started by recording several videos of the diffusion of pigment of colored candy immersed in water, to be used as data source. These videos can be found <a href="https://1drv.ms/u/s!AiCY1Uw6PbEfhaEncETEzJ0kakis6g?e=p3rMWV">here</a>. 
 
