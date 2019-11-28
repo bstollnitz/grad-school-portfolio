@@ -3,7 +3,6 @@
 This repository contains machine learning and data science related projects completed by Bea Stollnitz. All code is in Python.
 
 <br>
-<br>
 
 ### <a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classification">Package dieline classification</a>
 
@@ -48,7 +47,6 @@ This was my final project for the Deep Learning class (CSE 599) at the
 University of Washington, which I completed as part of my masters in 
 Applied Mathematics.
 
-<br>
 <br>
 
 ### <a href="https://github.com/bstollnitz/portfolio/tree/master/pigment-in-water">Predicting time evolution of a pigment in water</a>
