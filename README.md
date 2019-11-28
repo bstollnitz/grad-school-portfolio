@@ -18,7 +18,10 @@ This was my final project for the Inferring Structure of Complex Systems class
 (AMATH 563) at the University of Washington, which I completed as part 
 of my masters in Applied Mathematics.
 
-### <a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classification">Package dieline classification: a comparison of vector and image representations</a>
+<br>
+<br>
+
+### <a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classification">Package dieline classification</a>
 
 <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdknwH9F45upw5r1RQ?e=6PYl7A">![](images/poster.png?raw=true)</a>
 
