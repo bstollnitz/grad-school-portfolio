@@ -6,7 +6,7 @@ This repository contains machine learning and data science related projects comp
 
 ### <a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classification">Package dieline classification</a>
 
-<a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdknwH9F45upw5r1RQ?e=6PYl7A">![](images/poster.png?raw=true)</a>
+<a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](images/poster.png?raw=true)</a>
 
 The goal of this project is to classify all the panels of a package
 dieline. This project is a collaboration with Adobe Research, and will
@@ -40,7 +40,7 @@ prediction can be done far more quickly.
 
 You can find more details in the 
 <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdkoiZzuMIJLGgFG2Q?e=9sUqhs">report</a> 
-and <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdknwH9F45upw5r1RQ?e=6PYl7A">poster</a> 
+and <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">poster</a> 
 for this project.
 
 This was my final project for the Deep Learning class (CSE 599) at the 
