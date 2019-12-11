@@ -2,19 +2,15 @@
 
 This repository contains machine learning and data science related projects completed by Bea Stollnitz. All code is in Python.
 
-<br>
+- **Package dieline classification** <br>
+  *Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
+  *Topics:* Fully connected network, CNN, RNN, automated hyperparameter tuning, classification. <br>
 
-**Package dieline classification** <br>
-*Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
-*Topics:* Fully connected network, CNN, RNN, automated hyperparameter tuning, classification. <br>
+- **Predicting time evolution of a pigment in water** <br>
+  *Technologies:* Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair. <br>
+  *Topics:* Fully connected network, PCA, time-series prediction. <br>
 
-<br>
-
-**Predicting time evolution of a pigment in water** <br>
-*Technologies:* Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair. <br>
-*Topics:* Fully connected network, PCA, time-series prediction. <br>
-
-<br>
+---
 
 ### <a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classification">Package dieline classification</a>
 
@@ -59,7 +55,7 @@ This was my final project for the Deep Learning class (CSE 599) at the
 University of Washington, which I completed as part of my masters in 
 Applied Mathematics.
 
-<br>
+--- 
 
 ### <a href="https://github.com/bstollnitz/portfolio/tree/master/pigment-in-water">Predicting time evolution of a pigment in water</a>
 
