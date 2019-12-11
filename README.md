@@ -4,13 +4,15 @@ This repository contains machine learning and data science related projects comp
 
 <br>
 
-Project: Package dieline classification
-Technologies: Python, Keras, NumPy, Scikit-learn, Plotly.
-Topics: Fully connected network, CNN, RNN, automated hyperparameter tuning, classification.
+**Package dieline classification** <br>
+*Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
+*Topics:* Fully connected network, CNN, RNN, automated hyperparameter tuning, classification. <br>
 
-Project: Predicting time evolution of a pigment in water
-Technologies: Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair.
-Topics: Fully connected network, PCA, time-series prediction.
+<br>
+
+**Predicting time evolution of a pigment in water** <br>
+*Technologies:* Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair. <br>
+*Topics:* Fully connected network, PCA, time-series prediction. <br>
 
 <br>
 
