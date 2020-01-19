@@ -1,6 +1,6 @@
 # Bea Stollnitz projects
 
-This repository contains machine learning and data science related projects completed by Bea Stollnitz. All code is in Python.
+Here's a list of my machine learning and data science projects, with details below.
 
 - **Package dieline classification** <br>
   *Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
@@ -12,7 +12,9 @@ This repository contains machine learning and data science related projects comp
 
 ---
 
-### <a href="https://github.com/bstollnitz/dieline-classifier">Package dieline classification</a>
+### Package dieline classification
+
+<a href="https://github.com/bstollnitz/dieline-classifier">GitHub repo with code</a>
 
 <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](https://github.com/bstollnitz/dieline-classifier/blob/master/docs/poster.png?raw=true)</a>
 
@@ -57,7 +59,9 @@ Applied Mathematics.
 
 --- 
 
-### <a href="https://github.com/bstollnitz/pigment-in-water">Predicting time evolution of a pigment in water</a>
+### Predicting time evolution of a pigment in water
+
+<a href="https://github.com/bstollnitz/pigment-in-water">GitHub repo with code</a>
 
 ![](https://github.com/bstollnitz/pigment-in-water/blob/master/docs/pigment-in-water.png?raw=true)
 
