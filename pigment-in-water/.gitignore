@@ -1,6 +1,0 @@
-.ropeproject/
-__pycache__/
-Data/*
-!Data/README.md
-Images/
-venv/

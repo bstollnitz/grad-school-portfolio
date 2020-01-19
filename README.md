@@ -12,9 +12,9 @@ This repository contains machine learning and data science related projects comp
 
 ---
 
-### <a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classification">Package dieline classification</a>
+### <a href="https://github.com/bstollnitz/dieline-classifier">Package dieline classification</a>
 
-<a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](images/poster.png?raw=true)</a>
+<a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](https://github.com/bstollnitz/dieline-classifier/blob/master/docs/poster.png?raw=true)</a>
 
 The goal of this project is to classify all the panels of a package
 dieline. This project is a collaboration with Adobe Research, and will
@@ -57,9 +57,9 @@ Applied Mathematics.
 
 --- 
 
-### <a href="https://github.com/bstollnitz/portfolio/tree/master/pigment-in-water">Predicting time evolution of a pigment in water</a>
+### <a href="https://github.com/bstollnitz/pigment-in-water">Predicting time evolution of a pigment in water</a>
 
-![](images/pigment-in-water.png?raw=true)
+![](https://github.com/bstollnitz/pigment-in-water/blob/master/docs/pigment-in-water.png?raw=true)
 
 The goal of this project is to explore techniques for predicting the behavior of food coloring in water. I started by recording several videos of the diffusion of pigment of colored candy immersed in water, to be used as data source. These videos can be found <a href="https://1drv.ms/u/s!AiCY1Uw6PbEfhaEncETEzJ0kakis6g?e=p3rMWV">here</a>. 
 
