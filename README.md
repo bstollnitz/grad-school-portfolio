@@ -4,11 +4,11 @@ Here's a list of my machine learning and data science projects, with details bel
 
 - **Package dieline classification** <br>
   *Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
-  *Topics:* Fully connected network, CNN, RNN, automated hyperparameter tuning, classification. <br>
+  *Topics:* deep learning, CNN, automated hyperparameter tuning, classification. <br>
 
 - **Predicting time evolution of a pigment in water** <br>
   *Technologies:* Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair. <br>
-  *Topics:* Fully connected network, PCA, time-series prediction. <br>
+  *Topics:* deep learning, PCA, time-series. <br>
 
 - **Denoising of 3D scanned data** <br>
   *Technologies:* Python, NumPy, Plotly. <br>
