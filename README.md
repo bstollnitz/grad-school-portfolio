@@ -87,7 +87,7 @@ of my masters in Applied Mathematics.
 
 <a href="https://github.com/bstollnitz/denoising-3D-scans">GitHub repo with code</a>
 
-![](https://github.com/bstollnitz/pigment-in-water/blob/master/docs/marble-path.png?raw=true)
+![](https://github.com/bstollnitz/denoising-3D-scans/docs/marble-path.png?raw=true)
 
 In this project, I denoise a series of three-dimensional scanned data to determine the path of a marble ingested by a dog.
 I accomplish this by converting the data into the frequency domain using an FFT, averaging the spectra over time, and using
