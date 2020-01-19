@@ -10,6 +10,10 @@ Here's a list of my machine learning and data science projects, with details bel
   *Technologies:* Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair. <br>
   *Topics:* Fully connected network, PCA, time-series prediction. <br>
 
+- **Denoising of 3D scanned data** <br>
+  *Technologies:* Python, NumPy, Plotly. <br>
+  *Topics:* time-series, FFT, averaging of frequency, denoising by filtering. <br>
+
 ---
 
 ### Package dieline classification
@@ -75,4 +79,23 @@ If you'd like more details, you can read the <a href="https://1drv.ms/b/s!AiCY1U
 
 This was my final project for the Inferring Structure of Complex Systems class 
 (AMATH 563) at the University of Washington, which I completed as part 
+of my masters in Applied Mathematics.
+
+---
+
+### Denoising 3D scanned data
+
+<a href="https://github.com/bstollnitz/denoising-3D-scans">GitHub repo with code</a>
+
+![](https://github.com/bstollnitz/pigment-in-water/blob/master/docs/marble-path.png?raw=true)
+
+In this project, I denoise a series of three-dimensional scanned data to determine the path of a marble ingested by a dog.
+I accomplish this by converting the data into the frequency domain using an FFT, averaging the spectra over time, and using
+the average spectrum to construct a Gaussian filter. I then denoise the data in the frequency domain using the Gaussian filter,
+and convert it back into the spatial domain. The location of the marble can then be found by looking for the peak density in the
+spatial data.
+
+You can find more details in the <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdxWL0lSvCZrnEAEBA?e=Gcdrud">report</a> for this project.
+
+This was a homework assignment for the Computational Methods for Data Analysis class (AMATH 582) at the University of Washington, which I completed as part 
 of my masters in Applied Mathematics.
