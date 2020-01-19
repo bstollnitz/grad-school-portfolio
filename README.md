@@ -12,7 +12,7 @@ Here's a list of my machine learning and data science projects, with details bel
 
 - **Denoising of 3D scanned data** <br>
   *Technologies:* Python, NumPy, Plotly. <br>
-  *Topics:* time-series, FFT, averaging of frequency, denoising by filtering. <br>
+  *Topics:* time-series, FFT, denoising by filtering. <br>
 
 ---
 
