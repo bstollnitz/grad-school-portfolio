@@ -95,7 +95,7 @@ the average spectrum to construct a Gaussian filter. I then denoise the data in 
 and convert it back into the spatial domain. The location of the marble can then be found by looking for the peak density in the
 spatial data.
 
-You can find more details in the <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdxWL0lSvCZrnEAEBA?e=Gcdrud">report</a> for this project.
+You can find more details in the <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdxWL0lSvCZrnEAEBA?e=46bby1">report</a> for this project.
 
 This was a homework assignment for the Computational Methods for Data Analysis class (AMATH 582) at the University of Washington, which I completed as part 
 of my masters in Applied Mathematics.
