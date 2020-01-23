@@ -83,7 +83,7 @@ of my masters in Applied Mathematics.
 
 ---
 
-### Denoising 3D scanned data
+<!-- ### Denoising 3D scanned data
 
 <a href="https://github.com/bstollnitz/denoising-3D-scans">GitHub repo with code</a>
 
@@ -98,4 +98,4 @@ spatial data.
 You can find more details in the <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdxWL0lSvCZrnEAEBA?e=46bby1">report</a> for this project.
 
 This was a homework assignment for the Computational Methods for Data Analysis class (AMATH 582) at the University of Washington, which I completed as part 
-of my masters in Applied Mathematics.
+of my masters in Applied Mathematics. -->
