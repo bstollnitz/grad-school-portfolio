@@ -10,10 +10,11 @@ Here's a list of my machine learning and data science projects, with details bel
   *Technologies:* Python, Keras, NumPy, Scikit-learn, Pandas, Plotly, Altair. <br>
   *Topics:* deep learning, PCA, time-series. <br>
 
+<!--
 - **Denoising of 3D scanned data** <br>
   *Technologies:* Python, NumPy, Plotly. <br>
   *Topics:* time-series, FFT, denoising by filtering. <br>
-
+-->
 ---
 
 ### Package dieline classification
