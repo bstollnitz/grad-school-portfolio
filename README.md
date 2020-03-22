@@ -1,6 +1,6 @@
 # Bea Stollnitz projects
 
-Here's a list of my machine learning and data science projects, with details below.
+Here's a list of my machine learning, deep learning, signal processing, and data science projects, with details below.
 
 - **Package dieline classification** <br>
   *Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
