@@ -148,7 +148,7 @@ of my masters in Applied Mathematics.
   <img src="https://github.com/bstollnitz/gabor-transforms/blob/master/readme_files/zoomed_filtered_spectrograms.png?raw=true" width="400" />
 </p>
 
-I analyze three audio files in this project. The first file contains music by H{\"a}ndel, and the two other contain the song ``Mary had a little lamb'' played on the piano and recorder. 
+I analyze three audio files in this project. The first file contains music by Handel, and the two other contain the song ``Mary had a little lamb'' played on the piano and recorder. 
 
 For the first audio file, my goal is to compare the effects of the application of different Gabor transforms. I produce several spectrograms by using a wide range of Gabor filters with different shapes, widths, and time steps. I analyze the resulting spectrograms and point out the compromises involved in making different choices.
 
