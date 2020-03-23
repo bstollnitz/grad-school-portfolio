@@ -201,7 +201,7 @@ of my masters in Applied Mathematics.
 
 <p float="left">
   <a href="https://bea-portfolio.s3-us-west-2.amazonaws.com/dmd-separation/monkey-giraffe.mp4">
-    <img src="readme_files/video.png" width="800" controls/>
+    <img src="https://github.com/bstollnitz/dmd-separation/blob/master/readme_files/video.png" width="800" controls/>
   </a>
 </p>
 
