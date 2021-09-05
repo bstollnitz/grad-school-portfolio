@@ -1,0 +1,11 @@
+name: pigment-in-water
+dependencies:
+  - altair=3.2.0
+  - keras=2.3.1
+  - nomkl=3.0
+  - numpy=1.18.1
+  - opencv=3.4.2
+  - plotly=3.10.0
+  - psutil=5.6.3
+  - python=3.7.7
+  - scikit-learn=0.20.3
