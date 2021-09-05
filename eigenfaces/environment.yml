@@ -1,0 +1,7 @@
+name: eigenfaces
+dependencies:
+  - numpy=1.18.1
+  - pillow=7.0.0
+  - plotly=4.4.1
+  - python=3.8.1
+  - scikit-learn=0.22.1
