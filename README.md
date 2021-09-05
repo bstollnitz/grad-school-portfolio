@@ -153,10 +153,10 @@ of my masters in Applied Mathematics.
 
 ### Eigenfaces
 
-<a href="https://github.com/bstollnitz/eigenfaces">GitHub repo with code</a>
+<a href="/eigenfaces">GitHub repo with code</a>
 
 <p float="left">
-  <img src="https://github.com/bstollnitz/eigenfaces/blob/master/readme_files/eigenfaces.png?raw=true" width="800" />
+  <img src="/eigenfaces/readme_files/eigenfaces.png" width="800" />
 </p>
 
 In this project, I consider two data sets, one containing images of faces that have been cropped and aligned, and another containing images of faces that have not been aligned. I decompose this data using principal component analysis (PCA), and analyze the energy, coefficients, and visual representation of the data's spatial modes. I notice how the most relevant modes seem to capture changes in the lighting and position of the faces above all.
