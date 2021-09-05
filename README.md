@@ -92,7 +92,7 @@ Applied Mathematics.
 
 ### Human activity classification
 
-<a href="https://github.com/bstollnitz/activity-classification">GitHub repo with code</a>
+<a href="https://github.com/bstollnitz/portfolio/tree/master/activity-classification">GitHub folder with code</a>
 
 <p float="left">
   <img src="https://github.com/bstollnitz/activity-classification/blob/master/readme_files/spectrograms.png?raw=true" width="700" />
