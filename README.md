@@ -109,7 +109,7 @@ of my masters in Applied Mathematics.
 
 ### Predicting time evolution of a pigment in water
 
-<a href="https://github.com/bstollnitz/pigment-in-water">GitHub repo with code</a>
+<a href="https://github.com/bstollnitz/portfolio/tree/master/pigment-in-water">GitHub folder with code</a>
 
 <p float="left">
     <img src="https://github.com/bstollnitz/pigment-in-water/blob/master/readme_files/pigment-in-water.png" width="800"/>
