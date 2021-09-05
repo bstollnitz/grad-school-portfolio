@@ -45,7 +45,7 @@ time-series. <br>
 
 ### Package dieline classification
 
-<a href="https://github.com/bstollnitz/dieline-classifier">GitHub repo with code</a>
+<a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classifier">GitHub folder with code</a>
 
 <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](https://github.com/bstollnitz/dieline-classifier/blob/master/docs/poster.png?raw=true)</a>
 
