@@ -1,0 +1,6 @@
+name: dmd-separation
+dependencies:
+  - numpy=1.18.1
+  - opencv=3.4.2
+  - plotly=4.5.2
+  - python=3.7.7
