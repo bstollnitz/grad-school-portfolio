@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+.ropeproject
+.vscode/settings.json
+data
+plots
