@@ -7,13 +7,13 @@
 
 <p float="left">
   <a href="https://bea-portfolio.s3-us-west-2.amazonaws.com/dmd-separation/monkey-giraffe.mp4">
-    <img src="readme_files/video.png" width="800" controls/>
+    <img src="/dmd-separation/readme_files/video.png" width="800" controls/>
   </a>
 </p>
 
 <p float="left">
-  <img src="https://github.com/bstollnitz/dmd-separation/blob/master/readme_files/monkey-giraffe_2_background.png?raw=true" width="400" />
-  <img src="https://github.com/bstollnitz/dmd-separation/blob/master/readme_files/monkey-giraffe_2_foreground.png?raw=true" width="400" />
+  <img src="/dmd-separation/readme_files/monkey-giraffe_2_background.png" width="400" />
+  <img src="/dmd-separation/readme_files/monkey-giraffe_2_foreground.png" width="400" />
 </p>
 
 In this project, I explore two techniques for separating a moving foreground from a stationary background in videos. Both techniques rely on Dynamic Mode Decomposition (DMD), following somewhat different steps to arrive at the foreground and background pixel values. I use three videos of animal puppets exploring the Seattle cityscape in this analysis. No animals were harmed in this research.
