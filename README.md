@@ -45,7 +45,7 @@ time-series. <br>
 
 ### Package dieline classification
 
-<a href="https://github.com/bstollnitz/portfolio/tree/master/dieline-classifier">GitHub folder with code</a>
+<a href="/dieline-classifier">GitHub folder with code</a>
 
 <a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](https://github.com/bstollnitz/dieline-classifier/blob/master/docs/poster.png?raw=true)</a>
 
@@ -109,10 +109,10 @@ of my masters in Applied Mathematics.
 
 ### Predicting time evolution of a pigment in water
 
-<a href="https://github.com/bstollnitz/portfolio/tree/master/pigment-in-water">GitHub folder with code</a>
+<a href="/pigment-in-water">GitHub folder with code</a>
 
 <p float="left">
-    <img src="https://github.com/bstollnitz/pigment-in-water/blob/master/readme_files/pigment-in-water.png" width="800"/>
+    <img src="/pigment-in-water/readme_files/pigment-in-water.png" width="800"/>
 </p>
 
 The goal of this project is to explore techniques for predicting the behavior of food coloring in water. I started by recording several videos of the diffusion of pigment of colored candy immersed in water, to be used as data source. 
