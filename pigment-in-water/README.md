@@ -6,7 +6,7 @@
 ## Description
 
 <p float="left">
-    <img src="https://github.com/bstollnitz/pigment-in-water/blob/master/readme_files/pigment-in-water.png" width="800"/>
+    <img src="/pigment-in-water/readme_files/pigment-in-water.png" width="800"/>
 </p>
 
 The goal of this project is to explore techniques for predicting the behavior of food coloring in water. I started by recording several videos of the diffusion of pigment of colored candy immersed in water, to be used as data source. 
