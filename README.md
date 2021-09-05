@@ -199,10 +199,10 @@ of my masters in Applied Mathematics.
 
 ### Feature reduction
 
-<a href="https://github.com/bstollnitz/feature-reduction">GitHub repo with code</a>
+<a href="/feature-reduction">GitHub repo with code</a>
 
 <p float="left">
-  <img src="https://github.com/bstollnitz/feature-reduction/blob/master/readme_files/3_dominant_modes.png?raw=true" width="400" />
+  <img src="/feature-reduction/readme_files/3_dominant_modes.png" width="400" />
 </p>
 
 In this project, I analyze twelve videos in which three cameras recorded four different scenes: an object oscillating with vertical displacement only, a similar scene but with significant camera shake, an object oscillating with horizontal and vertical displacement, and an object that rotates in addition to oscillating horizontally and vertically. I use OpenCV's CSRT object tracker to follow the object and obtain trajectories for each camera. I then combine the trajectory data of different cameras for each scenario by including x and y feature information as the rows of our data matrix, with columns corresponding to the temporal dimension. I perform Principal Component Analysis (PCA) using Singular Value Decomposition (SVD), and analyze the potential for dimensionality reduction of the data for each scenario.
