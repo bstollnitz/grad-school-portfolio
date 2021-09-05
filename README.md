@@ -47,7 +47,7 @@ time-series. <br>
 
 <a href="/dieline-classifier">GitHub folder with code</a>
 
-<a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](https://github.com/bstollnitz/dieline-classifier/blob/master/docs/poster.png?raw=true)</a>
+<a href="https://1drv.ms/b/s!AiCY1Uw6PbEfhdlejxLv20qqllOVxA?e=jZh3nB">![](/dieline-classifier/docs/poster.png?raw=true)</a>
 
 The goal of this project is to classify all the panels of a package
 dieline. This project is a collaboration with Adobe Research, and will
