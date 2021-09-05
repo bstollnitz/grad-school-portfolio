@@ -1,6 +1,6 @@
-# Bea Stollnitz projects
+# Bea Stollnitz grad school projects
 
-Here's a list of my machine learning, signal processing, and data science projects, with details below.
+Here are some of the machine learning, signal processing, and data science projects I completed during grad school, with details below.
 
 - **Package dieline classification** <br>
 *Technologies:* Python, Keras, NumPy, Scikit-learn, Plotly. <br>
