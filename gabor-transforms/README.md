@@ -6,8 +6,8 @@
 ## Description
 
 <p float="left">
-  <img src="https://github.com/bstollnitz/gabor-transforms/blob/master/readme_files/mary_spectrograms.png?raw=true" width="400" />
-  <img src="https://github.com/bstollnitz/gabor-transforms/blob/master/readme_files/zoomed_filtered_spectrograms.png?raw=true" width="400" />
+  <img src="/gabor-transforms/readme_files/mary_spectrograms.png" width="400" />
+  <img src="/gabor-transforms/readme_files/zoomed_filtered_spectrograms.png" width="400" />
 </p>
 
 I analyze three audio files in this project. The first file contains music by Handel, and the two other contain the song ``Mary had a little lamb'' played on the piano and recorder. 
